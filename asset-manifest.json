@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.07eb4abd.css",
+    "main.js": "/react-portfolio/static/js/main.865d2be5.js",
+    "static/media/realestate.jpg": "/react-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/GitHub image.png": "/react-portfolio/static/media/GitHub image.00c601f1724a126c1cbd.png",
+    "static/media/Javascript image.png": "/react-portfolio/static/media/Javascript image.92169892ea013a5154bd.png",
+    "static/media/Rct image.png": "/react-portfolio/static/media/Rct image.6bcffb56bd0efaa47767.png",
+    "static/media/workImg.jpeg": "/react-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/Html image.png": "/react-portfolio/static/media/Html image.f023bfe200781ccb8927.png",
+    "static/media/second name logo.jpg": "/react-portfolio/static/media/second name logo.6eab48b322daa42cf52f.jpg",
+    "static/media/Node image.jpg": "/react-portfolio/static/media/Node image.4015d31245e8fee453d8.jpg",
+    "static/media/CSS-image.png": "/react-portfolio/static/media/CSS-image.0ca65abfc0c427bc3506.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.07eb4abd.css.map": "/react-portfolio/static/css/main.07eb4abd.css.map",
+    "main.865d2be5.js.map": "/react-portfolio/static/js/main.865d2be5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07eb4abd.css",
+    "static/js/main.865d2be5.js"
+  ]
+}
